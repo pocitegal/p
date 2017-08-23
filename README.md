@@ -1,6 +1,11 @@
 # Linux Poci bangkit kembali
 
 ## Fokus Linux POCI yang sekarang untuk apa ?, end user siapa?
+- Mempermudah komunikasi untuk antar perangkat desa
+- Mempermudah pengguna
+- Mempermudah mengobrol antar komunitas
+- Mempermudah mengobrol di forum
+- etc
 
 ## Team yang akan bekerja
 
