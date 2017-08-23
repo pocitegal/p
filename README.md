@@ -1,4 +1,7 @@
 # Linux Poci bangkit kembali
+
+## Fokus Linux POCI yang sekarang untuk apa ?, end user siapa?
+
 ## Team yang akan bekerja
 
 ### Perangkat Lunak
