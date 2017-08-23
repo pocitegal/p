@@ -5,6 +5,7 @@
 - Mempermudah pengguna
 - Mempermudah mengobrol antar komunitas
 - Mempermudah mengobrol di forum
+- Filosofi Moci
 - etc
 
 ## Team yang akan bekerja
