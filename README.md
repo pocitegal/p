@@ -1,6 +1,10 @@
 # Linux Poci bangkit kembali
 ## Team yang akan bekerja
+
 ### Perangkat Lunak
+
+- Menentukan Desktop Environment
+- Menentukan aplikasi bawaan
 
 #### List aplikasi bawaan
 
@@ -35,6 +39,19 @@
 - Okular (Documents Viewer) vs Evince
 - etc
 
+----------------------------------------------------
 
+### Pemaketan
 
+- Menentukan core PCLinuxOS 2017 vs 2016 vs 2015 vs 2014 vs 2013 vs 2012 vs 2011 vs 2010
 
+----------------------------------------------------
+
+### Seni Rupa
+
+- Bikin Theme
+- Bikin Icon
+- Bikin Plymouth
+- Bikin Wallpaper
+
+-------------------------
